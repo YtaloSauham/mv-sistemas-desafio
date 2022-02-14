@@ -27,8 +27,10 @@ Esse projeto foi criado usando oracle, jasper e java.
 2- Para chamar todas as demais funções, é necessario fazer uma chamada na main.
 
 3- O calculo para movimentações financeiras são feitas de 2 formas: 
-  1.Chamando a função operacao().
-  2.Após uma nova movimentação, através do trigger localizado em https://github.com/YtaloSauham/mv-sistemas-desafio/blob/main/database/table/movimentacao.sql
+
+  3.1-Chamando a função operacao().
+		
+  3.2-.Após uma nova movimentação, através do trigger localizado em https://github.com/YtaloSauham/mv-sistemas-desafio/blob/main/database/table/movimentacao.sql
   
  4-Não foram criadas o calculo da receita de empresa por movimentação.Logo,o programa não está toltalmente completo.
  
@@ -38,14 +40,20 @@ Esse projeto foi criado usando oracle, jasper e java.
  
   # Funções Disponiveis 
   1-Criar,Atualizar, Deletar e Buscar Cliente.
+		
   2-Atualizar e Buscar Endereço.
+		
   3-Criar e Buscar Conta.
+		
   4-Fazer movimentação.
+		
   5-Validação na criação de Clientes.
+		
   6-Relatorio
   
   # Boas Práticas
-  1-POO: Programação Orientada a Objetos
+  1-POO: Programação Orientada a Objetos.
+		
   2-Utilização do padrão MVC
   
    # Padrão de Projeto
