@@ -8,7 +8,7 @@ Esse projeto foi criado usando oracle, jasper e java.
  
 1- Fazer o download ou colne do projeto e realizar sua abertura na ua IDE.
 
-2.Executar os scripts de criação de tabela localizados na pasta https://github.com/YtaloSauham/mv-sistemas-desafio/tree/main/database/table . É necessario,para bom funcionamento, que os parametros setados sejam (user = dev ,password = 1234).
+2.Executar os scripts de criação de tabela localizados na pasta https://github.com/YtaloSauham/mv-sistemas-desafio/tree/main/database/table . É necessario,para bom funcionamento, que os parametros passados sejam os mesmos daqueles usados em desenvolvimento (user = dev ,password = 1234).
 
 3- Compilar os packages no banco de dados.Estes se encontram em https://github.com/YtaloSauham/mv-sistemas-desafio/tree/main/database/package . Neste arquivo se encontram todas as procedures e triggers utilizados no projeto.
 
